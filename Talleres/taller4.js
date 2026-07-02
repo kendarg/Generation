@@ -10,8 +10,8 @@
     }
     let id={
         nombre:"Esteban",
-        Ciudad: "San Gil",
-        propinas: "15%",
+        Ciudad: "Cali",
+        propinas: "10%",
         valor: 80000
     }
     let{nombre, Ciudad, propinas,valor} = id;
